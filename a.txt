@@ -1,0 +1,7 @@
+First steps with git
+git init
+git status
+touch a.txt
+git add a.txt
+git comit -m "suceesss, comit made"
+git log
